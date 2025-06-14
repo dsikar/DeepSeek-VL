@@ -1,0 +1,4 @@
+Describe the location of the green lane marker in the image.
+If it is in the middle, answer 'Middle'.
+If it is on the left, answer 'Left'.
+If it is on the right, answer 'Right'.
