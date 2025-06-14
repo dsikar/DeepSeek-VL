@@ -1,4 +1,4 @@
-Describe the location of the green lane marker in the image.
-If it is in the middle, answer 'Middle'.
-If it is on the left, answer 'Left'.
-If it is on the right, answer 'Right'.
+Describe the position of the motorcycle wheel in relation to the green lane marker.
+If the motorcycle wheel is in the middle of the green lane marker, reply: 'Middle'.
+If the motorcycle wheel is to the right of the green lane marker, reply: 'Right'.
+If the motorcycle wheel is to the left of the green lane marker, reply: 'Left'.
