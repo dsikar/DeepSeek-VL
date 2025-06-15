@@ -26,6 +26,7 @@ print(f"Debug mode: {args.debug}")
 
 # Load model and processor once
 model_path = "deepseek-ai/deepseek-vl-1.3b-chat"
+# model_path = "Qwen/Qwen2-VL-2B-Instruct"
 vl_chat_processor: VLChatProcessor = VLChatProcessor.from_pretrained(model_path)
 tokenizer = vl_chat_processor.tokenizer
 
